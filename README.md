@@ -1,2 +1,2 @@
 # Controlling-LEDs-From-Web-Application-via-Intranet
-Controlling LEDs from Web Application through Intranet
+Created a standalone web server with an ESP8266 (a low-cost Wi-Fi microchip with full TCP/IP stack and micro- controller capabilities) that can control two LEDs from any client (Like-mobile, Laptop etc). This ESP8266 will create its hotspot and web server can be accessed with any device connected to the hotspot in local network(No internet required because we are using local network).
